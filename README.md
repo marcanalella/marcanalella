@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @marcanalella
-- 👀 I’m interested in ...
+- 👀 I’m interested in AlgoTrading and software development
 - 🌱 Always learning
 - 💞️ Open to collaborate!
-- 📫 How to reach me ...
+- 📫 Visit [my site](https://marcanalella.github.io/portfolio/) to reach me!
 
 <!---
 marcanalella/marcanalella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
