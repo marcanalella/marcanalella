@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcanalella
-- 👀 I’m interested in AlgoTrading and software development
+- 👀 I’m interested in [Algorithmic Trading](https://mc-mytradingjournal.netlify.app/) and Software Development
 - 🌱 Always learning
 - 💞️ Open to collaborate!
 - 📫 Visit [my site](https://mariocanalella.netlify.app/) to reach me!
